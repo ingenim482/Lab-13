@@ -1,0 +1,21 @@
+h1 {
+    font-family: Serif ;
+	color: red;
+}
+  
+}
+h2 {
+    font-family: Serif ;
+    
+}
+p {
+	 font-family: Serif;
+    border-style: Dotted;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: Black;
+}
+body {
+    background: white url(https://i.pinimg.com/originals/33/cb/5e/33cb5ec29eb7d9aafdbbd1a608a1d966.gif) repeat top right;
+}
